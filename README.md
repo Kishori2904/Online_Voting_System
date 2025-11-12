@@ -32,7 +32,7 @@ Add encryption for secure data transmission
 
 👨‍💻 Developer
 Kishori Aggarwal
-Linkedin : kishori-aggarwal-119969314
+Linkedin : https://www.linkedin.com/in/kishori-aggarwal-119969314/
 Github : https://github.com/Kishori2904
 
 ⭐ If you like this project, give it a star on GitHub!
