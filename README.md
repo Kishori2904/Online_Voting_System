@@ -22,7 +22,13 @@ markdown Copy code 3. Open XAMPP Control Panel → Start Apache and MySQL 4. Cre
 👉 http://localhost/Online_Voting_System/
 
 📁 Folder Structure
-Online_Voting_System/ │ ├── admin/ # Admin panel files ├── includes/ # Reusable PHP files ├── assets/ # CSS, JS, Images ├── database/ # SQL scripts ├── index.php # Main entry page └── README.md # Project documentation
+Online_Voting_System/ 
+├── admin/ # Admin panel files 
+├── includes/ # Reusable PHP files 
+├── assets/ # CSS, JS, Images 
+├── database/ # SQL scripts 
+├── index.php # Main entry page 
+└── README.md # Project documentation
 
 💡 Future Improvements
 Add OTP-based authentication
